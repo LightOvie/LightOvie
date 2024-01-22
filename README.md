@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My project Vampire survivors](https://github.com/LightOvie/Vamprie-Survivors-.git)
 
-- 🤝 I’m also worked in the team [Alpine Adventures](https://alpineadventures.itch.io/alpineadventures)
+- 🤝 Projects where I worked in a team [Alpine Adventures](https://alpineadventures.itch.io/alpineadventures)
 
 - 👨‍💻 All of my projects are available at [https://github.com/LightOvie](https://github.com/LightOvie)
 
@@ -13,7 +13,7 @@
 
 - 📄 Personal letter [https://github.com/LightOvie/light](https://github.com/LightOvie/light)
 
-- ⚡ Fun fact **I speak 3 languages: Swedish English Russian**
+- ⚡ Fun fact **I speak 3 languages: Swedish,English and Russian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
