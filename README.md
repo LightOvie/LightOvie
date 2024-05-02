@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Svyatoslav</h1>
 <h3 align="center">I'm a game designer based in Sweden, specializing in C# programming. Excited to connect and learn something new about game development! 🎮🇸🇪</h3>
 
-- 🔭 I’m currently working on [My project Vampire survivors](https://github.com/LightOvie/Vamprie-Survivors-.git)
+- 🔭 I’m currently working on [My project Vampire Survivors](https://github.com/LightOvie/Vamprie-Survivors-.git)
 
 - 🤝 Projects where I worked in a team [Alpine Adventures](https://alpineadventures.itch.io/alpineadventures)
 
@@ -11,9 +11,7 @@
 
 - 📫 How to reach me **slavalapshin17@gmail.com or +46731465840**
 
-- 📄 Personal letter [https://github.com/LightOvie/light](https://github.com/LightOvie/light)
-
-- ⚡ Fun fact **I speak 3 languages: Swedish,English and Russian**
+- ⚡ Fun fact **I speak 3 languages: Swedish, English and Russian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
