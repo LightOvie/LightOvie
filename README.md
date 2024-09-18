@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LightOvie](https://github.com/LightOvie)
 
-- 📝 Cv [https://github.com/LightOvie/CV](https://github.com/LightOvie/CV)
-
 - 📫 How to reach me **slavalapshin17@gmail.com or +46731465840**
 
 - ⚡ Fun fact **I speak 3 languages: Swedish, English and Russian**
