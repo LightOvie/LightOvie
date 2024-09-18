@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/LightOvie](https://github.com/LightOvie)
 
 - 📫 How to reach me **slavalapshin17@gmail.com or +46731465840**
-- 🧠  I'm learning C++ and Unreal Engine 5
+- 🧠 I'm currently learning: C++ and Unreal Engine 5
 - ⚡ Fun fact **I speak 3 languages: Swedish, English and Russian**
 
 <h3 align="left">Connect with me:</h3>
