@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Svyatoslav</h1>
 <h3 align="center">I'm a game designer based in Sweden, specializing in C# programming. Excited to connect and learn something new about game development! 🎮🇸🇪</h3>
 
-- 🔭 I’m currently working on [My project Vampire Survivors](https://github.com/LightOvie/Vamprie-Survivors-.git)
+- 🔭 I’m currently working on [My project: First Personal Simple Shooter Game ](https://github.com/LightOvie/FirstPersonal)
 
 - 🤝 Projects where I worked in a team [Alpine Adventures](https://alpineadventures.itch.io/alpineadventures)
 
