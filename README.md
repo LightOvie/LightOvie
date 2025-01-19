@@ -23,7 +23,7 @@
   -   Excellent communication and teamwork skills and good knowledge in teamwork with Scrum system.
   -   Detail-oriented with a passion for innovation and creativity in game design.
   -   Worked in 2D and 3D games in different genres.
-  - 
+   
 - ⚡ Fun fact **I speak 3 languages: Swedish, English and Russian**
  
 - 📫 How to reach me **slavalapshin17@gmail.com **
