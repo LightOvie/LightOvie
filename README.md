@@ -6,19 +6,23 @@
 - :school_satchel: Education: I completed my Computer Games Programme: Specialisation Game Design and Scripting
  at Södertörn University
 
+
 - 🔭 I’m currently working on [My project: First Personal Simple Shooter Game ](https://github.com/LightOvie/FPGame)
+
 
 - 🤝 Projects where I worked in a team [Alpine Adventures](https://alpineadventures.itch.io/alpineadventures)
 
+
 - 👨‍💻 All of my projects are available at [https://github.com/LightOvie](https://github.com/LightOvie)
 
+
 - 🧠 Skills:
--   Proficient in game design software such as Unity.
--   Strong understanding of game mechanics, level design, and game balancing.
--   Experienced with scripting languages, including C#.
--   Ability to create compelling narratives and engaging gameplay experiences.
--   Excellent communication and teamwork skills.
--   Detail-oriented with a passion for innovation and creativity in game design.
+  -   Proficient in game design software such as Unity.
+  -   Strong understanding of game mechanics, level design, and game balancing.
+  -   Experienced with scripting languages, including C#.
+  -   Ability to create compelling narratives and engaging gameplay experiences.
+ -   Excellent communication and teamwork skills.
+ -   Detail-oriented with a passion for innovation and creativity in game design.
 
 - ⚡ Fun fact **I speak 3 languages: Swedish, English and Russian**
  
