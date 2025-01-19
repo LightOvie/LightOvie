@@ -3,6 +3,7 @@
 
 
 - 🌍  I'm based in Stockholm, Sweden
+- :school_satchel: 
 - 🔭 I’m currently working on [My project: First Personal Simple Shooter Game ](https://github.com/LightOvie/FPGame)
 
 - 🤝 Projects where I worked in a team [Alpine Adventures](https://alpineadventures.itch.io/alpineadventures)
@@ -18,9 +19,9 @@
 -   Detail-oriented with a passion for innovation and creativity in game design.
 
 - ⚡ Fun fact **I speak 3 languages: Swedish, English and Russian**
-- 
+ 
 - 📫 How to reach me **slavalapshin17@gmail.com **
-- 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/svyatoslav-lapshin-81b442266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="svyatoslav-lapshin-81b442266" height="30" width="40" /></a>
