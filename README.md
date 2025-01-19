@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [My project: First Personal Simple Shooter Game ](https://github.com/LightOvie/FPGame) 
 
-- 🤝 Projects where I worked in a team [Alpine Adventures](https://alpineadventures.itch.io/alpineadventures) and [Pac-Man](https://github.com/LightOvie/SUPH-03-Build)
+- 🤝 Projects where I worked in a team [Alpine Adventures](https://alpineadventures.itch.io/alpineadventures) and [Pac-Man style game](https://github.com/LightOvie/SUPH-03-Build)
 
 
 - 👨‍💻 All of my projects are available at my pinned repositories [Projects](https://github.com/LightOvie)
