@@ -21,8 +21,8 @@
   -   Strong understanding of game mechanics, level design, and game balancing.
   -   Experienced with scripting languages, including C#.
   -   Ability to create compelling narratives and engaging gameplay experiences.
- -   Excellent communication and teamwork skills.
- -   Detail-oriented with a passion for innovation and creativity in game design.
+  -   Excellent communication and teamwork skills.
+  -   Detail-oriented with a passion for innovation and creativity in game design.
 
 - ⚡ Fun fact **I speak 3 languages: Swedish, English and Russian**
  
