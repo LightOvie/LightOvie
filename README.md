@@ -7,13 +7,13 @@
  at Södertörn University
 
 
-- 🔭 I’m currently working on [My project: First Personal Simple Shooter Game ](https://github.com/LightOvie/FPGame)
+- 🔭 I’m currently working on [My project: First Personal Simple Shooter Game ](https://github.com/LightOvie/FPGame) and [Pac-Man](https://github.com/LightOvie/SUPH-03-Build)
 
 
 - 🤝 Projects where I worked in a team [Alpine Adventures](https://alpineadventures.itch.io/alpineadventures)
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/LightOvie](https://github.com/LightOvie)
+- 👨‍💻 All of my projects are available at [LightOvie](https://github.com/LightOvie)
 
 
 - 🧠 Skills:
