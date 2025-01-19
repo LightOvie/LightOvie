@@ -3,7 +3,9 @@
 
 
 - 🌍  I'm based in Stockholm, Sweden
-- :school_satchel: 
+- :school_satchel: Education: I completed my Computer Games Programme: Specialisation Game Design and Scripting
+ at Södertörn University
+
 - 🔭 I’m currently working on [My project: First Personal Simple Shooter Game ](https://github.com/LightOvie/FPGame)
 
 - 🤝 Projects where I worked in a team [Alpine Adventures](https://alpineadventures.itch.io/alpineadventures)
